@@ -113,12 +113,12 @@
             Infirmière dévouée pendant 10 ans, je suis maintenant programmeuse analyste Junior "Full-stack". <br>
             Je suis à la recherche d’un emploi dans ce domaine.
             Je suis passionnée par la création de sites web et d'applications en ligne et je suis très intéressée par
-            l'opportunité de travailler pour votre entreprise et de contribuer à votre succès en tant que programmeuse analyste.
+            l'opportunité de travailler avec vous et de contribuer à votre succès en tant que programmeuse analyste.
           </p>
           <p class="text-justify;">
             Au cours de mes études, j'ai eu l'opportunité de me former à différentes technologies de développement web et mobile,
             ainsi que la gestion de bases de données. J'ai également eu l'occasion de travailler sur des projets de développement réels
-            en collaboration avec de vrais clients ce qui m'a permis de développer mes compétences en résolution de problèmes
+            en collaboration avec des clients ce qui m'a permis de développer mes compétences en résolution de problèmes
             et de communication en équipe.
           </p>
           <p>
@@ -523,11 +523,11 @@
 
           <h3 class="resume-title">Langage</h3>
           <div class="resume-item">
-            <h4>Langue Parlé</h4>
+            <h4>Langues Parlées</h4>
             <p>
             <ul>
               <li>Français : Langue maternelle </li>
-              <li>Anglais : niveau B2 sur l’échelle CECRL </li>
+              <li>Anglais : Niveau B2 sur l’échelle CECRL </li>
             </ul>
             </p>
           </div>

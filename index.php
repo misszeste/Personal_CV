@@ -563,7 +563,7 @@
               <h4>Gestion étudiants et cours</h4>
               <p>VB.NET</p>
               <div class="portfolio-links">
-                <a href="assets/img/portfolio/vb.net.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="App 1"><i class="bx bx-plus"></i></a>
+                <a href="assets/img/portfolio/vb.net.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Travail de session 3 - Visual Studio"><i class="bx bx-plus"></i></a>
                 <a href="https://github.com/misszeste/P44-GestionEtudiant-VB.NET"><i class="bx bx-link"></i></a>
               </div>
             </div>
@@ -576,7 +576,7 @@
               <h4>Bingo</h4>
               <p>VB.NET</p>
               <div class="portfolio-links">
-                <a href="assets/img/portfolio/vb.net.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="App 1"><i class="bx bx-plus"></i></a>
+                <a href="assets/img/portfolio/vb.net.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Travail de session 2 - Visual Studio"><i class="bx bx-plus"></i></a>
                 <a href="https://github.com/misszeste/P34-BINGO-VB.NET"><i class="bx bx-link"></i></a>
               </div>
             </div>
@@ -597,14 +597,14 @@
           </div>
         </div> -->
 
-        <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+        <div class="col-lg-4 col-md-6 portfolio-item filter-console">
           <div class="portfolio-wrap">
             <img src="assets/img/portfolio/c.png" class="img-fluid" alt="imagelanguage">
             <div class="portfolio-info">
               <h4>Gestion étudiants</h4>
               <p>C#</p>
               <div class="portfolio-links">
-                <a href="assets/img/portfolio/c.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="App 2"><i class="bx bx-plus"></i></a>
+                <a href="assets/img/portfolio/c.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Travail de session 2 - Visual Studio"><i class="bx bx-plus"></i></a>
                 <a href="https://github.com/misszeste/P24-TP2-CSHARP" data-gallery="portfolioDetailsGallery" data-glightbox="type: external" class="portfolio-details-lightbox" title="Portfolio Details"><i class="bx bx-link"></i></a>
               </div>
             </div>
@@ -618,26 +618,26 @@
               <h4>Agence de voyage</h4>
               <p>PHP</p>
               <div class="portfolio-links">
-                <a href="assets/img/portfolio/php.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Card 2"><i class="bx bx-plus"></i></a>
-                <a href="portfolio-details.php" data-gallery="portfolioDetailsGallery" data-glightbox="type: external" class="portfolio-details-lightbox" title="Portfolio Details"><i class="bx bx-link"></i></a>
+                <a href="assets/img/portfolio/php.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Travail de session 3 - Visual Studio Code"><i class="bx bx-plus"></i></a>
+                <a href="https://github.com/misszeste/W34_TP2_2210116-VF" data-gallery="portfolioDetailsGallery" data-glightbox="type: external" class="portfolio-details-lightbox" title="Portfolio Details"><i class="bx bx-link"></i></a>
               </div>
             </div>
           </div>
         </div>
 
-        <div class="col-lg-4 col-md-6 portfolio-item filter-mobile">
+        <!-- <div class="col-lg-4 col-md-6 portfolio-item filter-mobile">
           <div class="portfolio-wrap">
             <img src="assets/img/portfolio/kotlin.png" class="img-fluid" alt="imagelanguage">
             <div class="portfolio-info">
               <h4>Application Mobile</h4>
               <p>Kotlin</p>
               <div class="portfolio-links">
-                <a href="assets/img/portfolio/kotlin.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Web 2"><i class="bx bx-plus"></i></a>
+                <a href="assets/img/portfolio/kotlin.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Travail de session 4 - Android Studio "><i class="bx bx-plus"></i></a>
                 <a href="portfolio-details.php" data-gallery="portfolioDetailsGallery" data-glightbox="type: external" class="portfolio-details-lightbox" title="Portfolio Details"><i class="bx bx-link"></i></a>
               </div>
             </div>
           </div>
-        </div>
+        </div> -->
 
         <!-- <div class="col-lg-4 col-md-6 portfolio-item filter-mobile">
           <div class="portfolio-wrap">
@@ -646,26 +646,13 @@
               <h4>Application Mobilie</h4>
               <p>React et Ionic</p>
               <div class="portfolio-links">
-                <a href="assets/img/portfolio/react.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="App 3"><i class="bx bx-plus"></i></a>
+                <a href="assets/img/portfolio/react.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Travail de session 4 - Visual Studio Code"><i class="bx bx-plus"></i></a>
                 <a href="portfolio-details.php" data-gallery="portfolioDetailsGallery" data-glightbox="type: external" class="portfolio-details-lightbox" title="Portfolio Details"><i class="bx bx-link"></i></a>
               </div>
             </div>
           </div>
         </div> -->
 
-        <!-- <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-          <div class="portfolio-wrap">
-            <img src="assets/img/portfolio/portfolio-7.jpg" class="img-fluid" alt="">
-            <div class="portfolio-info">
-              <h4>Agence de voyage</h4>
-              <p>PHP</p>
-              <div class="portfolio-links">
-                <a href="assets/img/portfolio/portfolio-7.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Card 1"><i class="bx bx-plus"></i></a>
-                <a href="portfolio-details.php" data-gallery="portfolioDetailsGallery" data-glightbox="type: external" class="portfolio-details-lightbox" title="Portfolio Details"><i class="bx bx-link"></i></a>
-              </div>
-            </div>
-          </div>
-        </div> -->
 
         <!-- <div class="col-lg-4 col-md-6 portfolio-item filter-app">
           <div class="portfolio-wrap">
@@ -702,12 +689,12 @@
               <h4>Raymond - À Venir</h4>
               <p>PHP</p>
               <div class="portfolio-links">
-                <a href="assets/img/portfolio/php.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Web 3"><i class="bx bx-plus"></i></a>
+                <a href="assets/img/portfolio/php.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Application Web pour Artisan du bois - Visual Studio Code"><i class="bx bx-plus"></i></a>
                 <a href="" data-gallery="portfolioDetailsGallery" data-glightbox="type: external" class="portfolio-details-lightbox" title="Portfolio Details"><i class="bx bx-link"></i></a>
               </div>
             </div>
           </div>
-        </div> 
+        </div>
 
       </div>
 

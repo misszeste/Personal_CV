@@ -125,61 +125,12 @@
             Je suis persuadée que mon engagement à apprendre et mon énergie pourraient constituer un atout pour votre entreprise
             en contribuant à la création de sites web performants, tout en répondant aux besoins et attentes de vos clients.
           </p>
-
-          <!-- <div class="row">
-            <div class="col-lg-6">
-              <ul>       
-                
-                <li><i class="bi bi-chevron-right"></i> <strong>Téléphone:</strong> <span>450-881-5151</span></li>
-                <li><i class="bi bi-chevron-right"></i> <strong>Adresse:</strong> <span>Sorel-Tracy,Qc,Canada</span></li> -->
-          <!-- </ul>
-            </div>
-            <div class="col-lg-6">
-              <ul> -->
-
-          <!-- <li><i class="bi bi-chevron-right"></i> <strong>Courriel:</strong> <span>jessikasoucy@outlook.com</span></li>
-                <li><i class="bi bi-chevron-right"></i> <strong>Freelance:</strong> <span>Disponible</span></li> 
-              </ul>
-            </div>
-          </div>-->
-
         </div>
       </div>
 
     </div><!-- End About Me -->
 
-    <!-- ======= Counts ======= -->
-    <!-- <div class="counts container">
 
-      <div class="row">
-
-        <div class="col-lg-4 col-md-6">
-          <div class="count-box">
-            <i class="bi bi-emoji-smile"></i>
-            <span data-purecounter-start="0" data-purecounter-end="2" data-purecounter-duration="1" class="purecounter"></span>
-            <p>Clients heureux</p>
-          </div>
-        </div>
-
-        <div class="col-lg-4 col-md-6 mt-5 mt-md-0">
-          <div class="count-box">
-            <i class="bi bi-journal-richtext"></i>
-            <span data-purecounter-start="0" data-purecounter-end="2" data-purecounter-duration="1" class="purecounter"></span>
-            <p>Projets</p>
-          </div>
-        </div>
-
-        <div class="col-lg-4 col-md-6 mt-5 mt-lg-0">
-          <div class="count-box">
-            <i class="bi bi-headset"></i>
-            <span data-purecounter-start="0" data-purecounter-end="10" data-purecounter-duration="1" class="purecounter"></span>
-            <p>Heures de support technique</p>
-          </div>
-        </div>
-
-      </div>
-
-    </div>End Counts -->
 
     <!-- ======= Skills  ======= -->
     <div class="skills container">
@@ -212,8 +163,16 @@
               <div class="progress-bar" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100"></div>
             </div>
           </div>
+
           <div class="progress">
             <span class="skill"> VB.NET <i class="val">90%</i></span>
+            <div class="progress-bar-wrap">
+              <div class="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"></div>
+            </div>
+          </div>
+
+          <div class="progress">
+            <span class="skill"> Kotlin <i class="val">75%</i></span>
             <div class="progress-bar-wrap">
               <div class="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"></div>
             </div>
@@ -244,10 +203,18 @@
               <div class="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"></div>
             </div>
           </div>
+
           <div class="progress">
             <span class="skill"> C# <i class="val">75%</i></span>
             <div class="progress-bar-wrap">
               <div class="progress-bar" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100"></div>
+            </div>
+          </div>
+
+          <div class="progress">
+            <span class="skill"> ASP CLASSIC <i class="val">90%</i></span>
+            <div class="progress-bar-wrap">
+              <div class="progress-bar" role="progressbar" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100"></div>
             </div>
           </div>
         </div>
